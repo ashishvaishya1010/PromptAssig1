@@ -1,0 +1,3 @@
+﻿The factorial of 5 is calculated by multiplying 5 by each positive integer that is smaller than it until reaching 1. So, the factorial of 5 is:
+
+5! = 5 x 4 x 3 x 2 x 1 = 120
